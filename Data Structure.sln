@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArrayStack", "ArrayStack\Ar
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkedStack", "LinkedStack\LinkedStack.vcxproj", "{1F34BC72-03E8-4A3C-87C7-B1EBA8897782}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Calculator", "Calculator\Calculator.vcxproj", "{DC7537D3-017D-4296-ACA0-4677E0CCE8C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{1F34BC72-03E8-4A3C-87C7-B1EBA8897782}.Release|x64.Build.0 = Release|x64
 		{1F34BC72-03E8-4A3C-87C7-B1EBA8897782}.Release|x86.ActiveCfg = Release|Win32
 		{1F34BC72-03E8-4A3C-87C7-B1EBA8897782}.Release|x86.Build.0 = Release|Win32
+		{DC7537D3-017D-4296-ACA0-4677E0CCE8C6}.Debug|x64.ActiveCfg = Debug|x64
+		{DC7537D3-017D-4296-ACA0-4677E0CCE8C6}.Debug|x64.Build.0 = Debug|x64
+		{DC7537D3-017D-4296-ACA0-4677E0CCE8C6}.Debug|x86.ActiveCfg = Debug|Win32
+		{DC7537D3-017D-4296-ACA0-4677E0CCE8C6}.Debug|x86.Build.0 = Debug|Win32
+		{DC7537D3-017D-4296-ACA0-4677E0CCE8C6}.Release|x64.ActiveCfg = Release|x64
+		{DC7537D3-017D-4296-ACA0-4677E0CCE8C6}.Release|x64.Build.0 = Release|x64
+		{DC7537D3-017D-4296-ACA0-4677E0CCE8C6}.Release|x86.ActiveCfg = Release|Win32
+		{DC7537D3-017D-4296-ACA0-4677E0CCE8C6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
