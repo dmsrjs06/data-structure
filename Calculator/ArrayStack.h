@@ -24,5 +24,4 @@ extern int printArrayStack(ArrayStack* s);
 extern int emptyArrayStack(ArrayStack* s);
 extern int fullArrayStack(ArrayStack* s);
 extern stackElement peekArrayStack(ArrayStack* s);
-
-// extern int destroyArrayStack(ArrayStack* s);
+extern int destroyArrayStack(ArrayStack* s);
